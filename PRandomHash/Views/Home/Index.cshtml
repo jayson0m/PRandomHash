@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "PRandomHash";
+}
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <label for="word1">Word 1: </label>
+        <input class="form-control" id="word1" name="word1"/>
+    </div>
+    <div class="form-group">
+        <label for="word2">Word 2: </label>
+        <input class="form-control" id="word2" name="word2"/>
+    </div>
+    <div class="form-group">
+        <label for="limit">Limit Output Byte Length: </label>
+        <input type="number" class="form-control" id="limit" name="limit"/>
+    </div>
+    <button class="btn btn-default">Generate</button>
+}
+
+@if(TempData["hash"] != null){
+    <h1>
+        <hr/>
+        <strong>Output:</strong>
+        @TempData["hash"]
+        <hr/>
+        <strong>Word 1: </strong>
+        @TempData["word1"]
+        <hr/>
+        <strong>Word 2: </strong>
+        @TempData["word2"]
+        <hr/>
+        <strong>Word 1 bytes: </strong>
+        @TempData["dev"]
+        <hr/>
+        <strong>Word 2 bytes: </strong>
+        @TempData["dev1"]
+        <hr/>
+        <strong>Devout Str: </strong>
+        @TempData["devout"]
+    </h1>
+}

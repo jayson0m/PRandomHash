@@ -1,0 +1,11 @@
+/Users/jay/Desktop/MUNRO-Code examples/Misc-Testing/RandomHashGen/PRandomHash/PRandomHash/bin/Debug/netcoreapp2.0/PRandomHash.deps.json
+/Users/jay/Desktop/MUNRO-Code examples/Misc-Testing/RandomHashGen/PRandomHash/PRandomHash/bin/Debug/netcoreapp2.0/PRandomHash.runtimeconfig.json
+/Users/jay/Desktop/MUNRO-Code examples/Misc-Testing/RandomHashGen/PRandomHash/PRandomHash/bin/Debug/netcoreapp2.0/PRandomHash.runtimeconfig.dev.json
+/Users/jay/Desktop/MUNRO-Code examples/Misc-Testing/RandomHashGen/PRandomHash/PRandomHash/bin/Debug/netcoreapp2.0/PRandomHash.dll
+/Users/jay/Desktop/MUNRO-Code examples/Misc-Testing/RandomHashGen/PRandomHash/PRandomHash/bin/Debug/netcoreapp2.0/PRandomHash.pdb
+/Users/jay/Desktop/MUNRO-Code examples/Misc-Testing/RandomHashGen/PRandomHash/PRandomHash/obj/Debug/netcoreapp2.0/PRandomHash.csprojResolveAssemblyReference.cache
+/Users/jay/Desktop/MUNRO-Code examples/Misc-Testing/RandomHashGen/PRandomHash/PRandomHash/obj/Debug/netcoreapp2.0/PRandomHash.csproj.CoreCompileInputs.cache
+/Users/jay/Desktop/MUNRO-Code examples/Misc-Testing/RandomHashGen/PRandomHash/PRandomHash/obj/Debug/netcoreapp2.0/PRandomHash.AssemblyInfoInputs.cache
+/Users/jay/Desktop/MUNRO-Code examples/Misc-Testing/RandomHashGen/PRandomHash/PRandomHash/obj/Debug/netcoreapp2.0/PRandomHash.AssemblyInfo.cs
+/Users/jay/Desktop/MUNRO-Code examples/Misc-Testing/RandomHashGen/PRandomHash/PRandomHash/obj/Debug/netcoreapp2.0/PRandomHash.dll
+/Users/jay/Desktop/MUNRO-Code examples/Misc-Testing/RandomHashGen/PRandomHash/PRandomHash/obj/Debug/netcoreapp2.0/PRandomHash.pdb
